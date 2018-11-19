@@ -1,6 +1,6 @@
 {
   "name": "c4ajv",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "C4Framework AJV",
   "main": "out",
   "scripts": {
@@ -23,7 +23,7 @@
     "@types/node": "^9.4.6",
     "@types/strip-json-comments": "0.0.30",
     "ajv": "^6.2.1",
-    "c4utils": "0.0.1",
+    "c4utils": "0.0.3",
     "js-yaml": "^3.11.0",
     "strip-json-comments": "^2.0.1"
   }
